@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>gihyo.jp：総合</title>
+ <link>http://gihyo.jp/</link>
+ <description>gihyo.jp（総合）の更新情報をお届けします</description>
+ <language>ja-jp</language>
+ <copyright>技術評論社 2017</copyright>
+ <lastBuildDate>Fri, 29 Sep 2017 21:22:01 +0900</lastBuildDate>
+ <image>
+  <url>http://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif</url>
+  <title>gihyo.jp</title>
+  <link>http://gihyo.jp/</link>
+ </image>
+ <item>
+  <title>Clovaが切り拓く未来：コミュニケーションプラットフォームからライフスタイルプラットフォームへ――LINE DEVELOPER DAY 2017開催 ── レポート</title>
+  <link>http://gihyo.jp/news/report/2017/09/2901</link>
+  <description>2017年9月28日，ヒカリエホール（東京・渋谷）にて，LINEが開催するテクノロジーカンファレンス「LINE DEVELOPER DAY 2017」が開催された。ここではその模様をお届けする。</description>
+  <pubDate>Fri, 29 Sep 2017 19:06:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/report">レポート</category>
+  <guid>http://gihyo.jp/news/report/2017/09/2901</guid> 
+  <author>馮富久</author>
+ </item>
+ <item>
+  <title>2017年9月29日　技評ねこ部の投稿コーナー！ ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201709/29</link>
+  <description>今月もなんとか続けられました！ありがとうございます！さて，本日は投稿いただいた写真をご紹介いたします！</description>
+  <pubDate>Fri, 29 Sep 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201709/29</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>2017年9月29日号　ArtfulのFinal Beta Freezeとi386ISOイメージのゆくえ，「Azure用カーネル」の正式リリース，UWN#519 ── Ubuntu Weekly Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/ubuntu-topics/201709/29</link>
+  <description>Artful（17.10）の開発がFinal Beta Freezeの時期を迎えました。また，以前から特徴を紹介してきたlinux-azureが明確にアナウンスされました。</description>
+  <pubDate>Fri, 29 Sep 2017 10:32:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/ubuntu-topics/201709/29</guid> 
+  <author>吉田史</author>
+ </item>
+ <item>
+  <title>1日目　Peter Wang氏キーノート，変数アノテーション，自然言語処理，PythonでWebセキュリティ自動化～新企画「メディア会議」に注目 ── PyCon JP 2017カンファレンスレポート</title>
+  <link>http://gihyo.jp/news/report/01/pyconjp2017/0001</link>
+  <description>PyCon JPは，Pythonユーザが集まり，PythonやPythonを使ったソフトウェアについての情報を交換し，Pythonユーザが交流をするためのカンファレンスです。</description>
+  <pubDate>Fri, 29 Sep 2017 09:32:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/report/01/pyconjp2017">PyCon JP 2017カンファレンスレポート</category>
+  <guid>http://gihyo.jp/news/report/01/pyconjp2017/0001</guid> 
+  <author>小林正彦，海老原由夫樹，陶山嶺</author>
+ </item>
+ <item>
+  <title>第95回　「らじる☆らじる」をHLS経由で ── 玩式草子─ソフトウェアとたわむれる日々</title>
+  <link>http://gihyo.jp/lifestyle/serial/01/ganshiki-soushi/0095</link>
+  <description>今月の頭からNHKのネットラジオ「らじる☆らじる」の配信形式が変更され，本連載で以前紹介したスクリプトでは録音できなくなったので，急遽そのための対応方法を紹介することにしました。</description>
+  <pubDate>Fri, 29 Sep 2017 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/serial/01/ganshiki-soushi">玩式草子─ソフトウェアとたわむれる日々</category>
+  <guid>http://gihyo.jp/lifestyle/serial/01/ganshiki-soushi/0095</guid> 
+  <author>こじまみつひろ</author>
+ </item>
+ <item>
+  <title>第117回　EuroBSDCon 2017 - 過去最大規模 ── BSD界隈四方山話</title>
+  <link>http://gihyo.jp/admin/serial/01/bsd-yomoyama/0117</link>
+  <description>2017年9月23日(土)と24日(日)にフランスのパリでEuroBSDCon 2017が開催されました。</description>
+  <pubDate>Fri, 29 Sep 2017 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/bsd-yomoyama">BSD界隈四方山話</category>
+  <guid>http://gihyo.jp/admin/serial/01/bsd-yomoyama/0117</guid> 
+  <author>後藤大地</author>
+ </item>
+ <item>
+  <title>2017年9月28日　Ubuntu，Artful Aardvarkで32ビット版サポートを中止へ ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201709/28</link>
+  <description>10月19日リリース予定の「Ubuntu 17.10（開発コード: Artful Aardvark）」では，32ビット（i386）アーキテクチャのインストールイメージを含めないことを開発者向けメーリングリストで明らかにした。</description>
+  <pubDate>Thu, 28 Sep 2017 16:11:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201709/28</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>2017年9月28日　ご飯屋さんのくろこ ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201709/28</link>
+  <description>某ご飯屋さんにご飯をもらいに来るくろこです。</description>
+  <pubDate>Thu, 28 Sep 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201709/28</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>HTML5 Conference 2017 基調講演レポート ── レポート</title>
+  <link>http://gihyo.jp/news/report/2017/09/2801</link>
+  <description>9月24日，東京・北千住にある東京電機大学にて，「HTML5 Conference 2017」が開催されました。本稿では，基調講演の模様をレポートします。</description>
+  <pubDate>Thu, 28 Sep 2017 14:08:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/report">レポート</category>
+  <guid>http://gihyo.jp/news/report/2017/09/2801</guid> 
+  <author>高橋和道</author>
+ </item>
+ <item>
+  <title>はじめにオートメーションありき ―創業者が語るVagrant，Packerを生んだ&quot;HashiCorpのプリンシプル&quot; ── インタビュー</title>
+  <link>http://gihyo.jp/news/interview/2017/09/2801</link>
+  <description>スタートアップ「HashiCorp」，同社が生み出すプロダクトはなぜこんなにも世界中の開発者から熱狂的に支持されているのか，来日したミッチェル・ハシモト氏に開発理念を中心にお話をうかがいました。</description>
+  <pubDate>Thu, 28 Sep 2017 11:15:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/interview">インタビュー</category>
+  <guid>http://gihyo.jp/news/interview/2017/09/2801</guid> 
+  <author>五味明子</author>
+ </item>
+ <item>
+  <title>第38回　2017年9月～今月は脆弱性祭り～どうしてこんなに出てくるのか～ ── インフラセキュリティの処方箋</title>
+  <link>http://gihyo.jp/admin/serial/01/infrasec/0038</link>
+  <description>2017年9月は，かなり深刻な脆弱性が相次いで発見された月でした。中でもApache Tomcatの脆弱性は，相当深刻なレベルのものと理解しています。
+</description>
+  <pubDate>Thu, 28 Sep 2017 09:32:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/infrasec">インフラセキュリティの処方箋</category>
+  <guid>http://gihyo.jp/admin/serial/01/infrasec/0038</guid> 
+  <author>宮本久仁男</author>
+ </item>
+ <item>
+  <title>2017年9月第4週号 1位は，実例で学ぶFlexboxの完全ガイド，気になるネタは，GoogleのiOS向けキーボードアプリ「Gboard」，日本語に対応 ── 週刊Webテク通信</title>
+  <link>http://gihyo.jp/design/clip/01/weekly-web-tech/201709/28</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2017年9月11日～9月24日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 28 Sep 2017 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>http://gihyo.jp/design/clip/01/weekly-web-tech/201709/28</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>2017年9月第4週　GoogleがHTCのスマホ事業の一部を11億ドルで買収 ── Android Weekly Topics</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/awt/201709/28</link>
+  <description>2017年9月第4週のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 28 Sep 2017 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/awt/201709/28</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>2017年9月27日　カギしっぽのくろこ ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201709/27</link>
+  <description>ねこの曲がったしっぽのことを「カギしっぽ」というそうです。</description>
+  <pubDate>Wed, 27 Sep 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201709/27</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>2017年9月27日　Microsoft，Open Source Initiativeのプレミアムスポンサーに ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201709/27</link>
+  <description>Open Source Initiativeは9月26日（米国時間），Microsoftが同イニシアティブにプレミアムスポンサーとして参画することを発表した。</description>
+  <pubDate>Wed, 27 Sep 2017 11:18:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201709/27</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>第490回　Ubuntu 17.10のGNOME Shell拡張機能 ── Ubuntu Weekly Recipe</title>
+  <link>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0490</link>
+  <description>新たにGNOME Shellを採用するUbuntu 17.10で有効になっているGNOME Shell拡張機能について解説します。</description>
+  <pubDate>Wed, 27 Sep 2017 10:03:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0490</guid> 
+  <author>あわしろいくや</author>
+ </item>
+ <item>
+  <title>第151回　ジャンプPAINT by MediBang，Offline Only，Get a new Lens on life ── いま，見ておきたいウェブサイト</title>
+  <link>http://gihyo.jp/design/serial/01/website-pickup/0151</link>
+  <description>穏やかな気温，適度な湿度，気持ちのよい陽の光と，いよいよ秋らしさが日に日に増してきている今日このごろ，皆様いかがお過ごしでしょうか。今回も個人的に感じた，素晴らしいサイトの特徴をいくつかお話したいと思います。</description>
+  <pubDate>Wed, 27 Sep 2017 09:33:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/design/serial/01/website-pickup">いま，見ておきたいウェブサイト</category>
+  <guid>http://gihyo.jp/design/serial/01/website-pickup/0151</guid> 
+  <author>Lançamento</author>
+ </item>
+ <item>
+  <title>第19回　CIツール「Bamboo」で開発プロセスの生産性を上げる（前編） ── うまくいくチーム開発のツール戦略</title>
+  <link>http://gihyo.jp/dev/serial/01/teamdev-toolstrategy/0019</link>
+  <description>今回は継続的インテグレーション（CI）システムに着目し，ビルド／テスト／デプロイといった作業の自動化／省力化，さらに「三種の神器」をすべて連携させることで生産性を向上させる方法について紹介します。</description>
+  <pubDate>Wed, 27 Sep 2017 09:32:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/teamdev-toolstrategy">うまくいくチーム開発のツール戦略</category>
+  <guid>http://gihyo.jp/dev/serial/01/teamdev-toolstrategy/0019</guid> 
+  <author>河村康博</author>
+ </item>
+ <item>
+  <title>関数型プログラミングを使いこなす ── 新刊ピックアップ</title>
+  <link>http://gihyo.jp/book/pickup/2017/0084</link>
+  <description>関数型プログラミングと聞いて皆さんは何を思い浮かべるでしょうか？</description>
+  <pubDate>Wed, 27 Sep 2017 09:30:30 +0900</pubDate>
+  <category domain="http://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>http://gihyo.jp/book/pickup/2017/0084</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>PowerPointを効率良く使うには ── 新刊ピックアップ</title>
+  <link>http://gihyo.jp/book/pickup/2017/0083</link>
+  <description>MicrosoftのPowerPointは，プレゼンテーション用のアプリケーションです。</description>
+  <pubDate>Wed, 27 Sep 2017 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>http://gihyo.jp/book/pickup/2017/0083</guid> 
+  <author>編集部</author>
+ </item>
+</channel>
+</rss>
